@@ -9,10 +9,10 @@ Youtube Video:
 
 
 
-Instruction install AWS CLI:
+Video for creating the Table and populate with data:
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pE-Q_4YXlR0/0.jpg)](http://www.youtube.com/watch?v=pE-Q_4YXlR0 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sBZIVLlmpxY/0.jpg)](http://www.youtube.com/watch?v=sBZIVLlmpxY "Video Title")
 
 
 
