@@ -1,9 +1,10 @@
 # spring-mvc-dynamodb
 
-Command to run the project:
+**Command to run the project:**
+
 mvn spring-boot:run
 
-Code walkthrough for Spring Boot MVC project with AWS DynamoDB
+**Code walkthrough for Spring Boot MVC project with AWS DynamoDB**
 
 Youtube Video:
 
