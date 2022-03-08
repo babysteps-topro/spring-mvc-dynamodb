@@ -13,7 +13,9 @@ Youtube Video:
 
 
 
-Video for creating the Table and populate with data:
+**Video for creating the Table and populate with data:**
+
+Script to create the table:
 
 https://github.com/babysteps-topro/DynamoDBQueryScan
 
