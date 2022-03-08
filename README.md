@@ -1,5 +1,8 @@
 # spring-mvc-dynamodb
 
+Command to run the project:
+mvn spring-boot:run
+
 Code walkthrough for Spring Boot MVC project with AWS DynamoDB
 
 Youtube Video:
@@ -11,6 +14,7 @@ Youtube Video:
 
 Video for creating the Table and populate with data:
 
+https://github.com/babysteps-topro/DynamoDBQueryScan
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/sBZIVLlmpxY/0.jpg)](http://www.youtube.com/watch?v=sBZIVLlmpxY "Video Title")
 
